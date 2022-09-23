@@ -1,0 +1,17 @@
+{
+    "active_events": [
+        {
+            "type": "Yen",
+            "text": "2x Yen",
+            "amount": 2,
+
+            "endDate": {
+                "year": 2022,
+                "month": 9,
+                "day": 25,
+                "hour": 15,
+                "min": 0
+            }
+        }
+    ]
+}
